@@ -1,15 +1,17 @@
-Welcome to My GitHub Repository!
+## Hi there, I'm Tyler! 👋
 
-My name is Tyler, a passionate full-stack developer with a focus on C languages, particularly C and C++, but I am also proficient in JavaScript and web development. 
-My goal is to create efficient and robust software solutions that meet the needs of users and clients.
-This GitHub Profile serves as a showcase of my projects and contributions to the developer community.
+### About Me
+I'm an 18-year-old programmer from the United Kingdom with a passion for C++ and experience in various other languages, including C#, JavaScript, HTML, CSS, Python, and Lua. I enjoy working on a wide range of projects and am always coding something new!
 
-Contact Me
-If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me via email at tylerstocks100@outlook.com or connect with me on LinkedIn.
+### Skills
+- **Programming Languages:** C++, C#, JavaScript, HTML, CSS, Python, Lua
+- **Operating System:** Linux
 
-Thank you for visiting my GitHub Profile. I hope you find my projects insightful and inspiring!
+### Projects
+- **Community Management and Development:** 
+  - Built and manage a community based on a video game through a Discord server.
+  - Programmed various bots and scripts to enhance the community experience.
 
-
-
-
-
+### Contact Me
+- **Email:** tylerstocks100@outlook.com
+- **Discord:** morpheus_tyler
