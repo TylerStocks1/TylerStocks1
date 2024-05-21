@@ -9,7 +9,7 @@ I'm an 18-year-old programmer from the United Kingdom with a passion for C++ and
 
 ### Projects
 - **Community Management and Development:** 
-  - Built and manage a community based on [DDnet](https://github.com/ddnet/ddnet) through a Discord server.
+  - Built and manage a community based on [DDnet](https://github.com/ddnet/ddnet), overseeing both Discord and in-game server operations.
   - Programmed various bots and scripts to enhance the community experience.
 
 ### Contact Me
