@@ -1,7 +1,7 @@
 ## Hi there, I'm Tyler! 👋
 
 ### About Me
-I'm an 19-year-old programmer from the United Kingdom with a passion for C++ and experience in various other languages, including C#, JavaScript, HTML, CSS, Python, and Lua. I enjoy working on a wide range of projects and am always coding something new!
+I'm an 19-year-old programmer from the United Kingdom with a passion for C++ and experience in various other languages, including C#, Rust, Lua and JavaScript. I enjoy working on a wide range of projects and am always coding something new!
 
 ### Skills
 - **Programming Languages:** C++, C, Rust, JS , Lua
